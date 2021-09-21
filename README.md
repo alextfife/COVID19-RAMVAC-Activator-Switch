@@ -24,4 +24,8 @@ The switches are not my original design. The original design is without patent, 
 </ol>
 
 <h3>Design Evolution</h3>
-The original design. None of this was of my doing
+The original design. None of this was of my doing.
+
+![IMG_8940](https://user-images.githubusercontent.com/26822309/134238433-ab46c728-09ed-47e2-b081-09f8f149fac2.jpg)
+![IMG_8937](https://user-images.githubusercontent.com/26822309/134238460-986ec22e-c4fc-4d9a-bf42-23f080e3d74e.PNG)
+
