@@ -26,6 +26,6 @@ The switches are not my original design. The original design is without patent, 
 <h3>Design Evolution</h3>
 The original design. None of this was of my doing.
 
-![IMG_8940](https://user-images.githubusercontent.com/26822309/134238433-ab46c728-09ed-47e2-b081-09f8f149fac2.jpg)
-![IMG_8937](https://user-images.githubusercontent.com/26822309/134238460-986ec22e-c4fc-4d9a-bf42-23f080e3d74e.PNG)
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/26822309/135679669-c33320c2-37d4-4f43-b4be-d66bb241ae65.png">
+<img width="435" alt="image" src="https://user-images.githubusercontent.com/26822309/135679709-7499ec93-d27b-49aa-9505-b3b37ffb04fb.png">
 
