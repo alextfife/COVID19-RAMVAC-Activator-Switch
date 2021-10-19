@@ -65,3 +65,6 @@ My work as seen here is implemented at Gulf Coast Dental, in Bluewater Bay, FL. 
 
 <br>
 <i>I had express permission to photograph healthcare professionals and patients pictured to be in this documentation</i><br>
+
+<h2>Do you want this?</h2> 
+Please contact me, and I will promplty get in touch with you! 
