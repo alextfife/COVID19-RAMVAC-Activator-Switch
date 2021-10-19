@@ -45,20 +45,22 @@ After checking PCB standards and compliance with the manufacturers, this was my 
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/26822309/137974287-b5538c80-dc87-46b2-a955-61d9378a7b3e.png">
 <br>
 Solding such small parts, and not having the funds for a microsolder meant I needed to tweak my design and send it to get fabricated and have the parts soldered on at the manufacturer. <br>
-<img width="486" alt="image" src="https://user-images.githubusercontent.com/26822309/137974613-43e77384-697c-4356-9c4e-b56fbe8ef63c.png"><br>
+<!--<img width="486" alt="just the chip HQ" src="https://user-images.githubusercontent.com/26822309/137974613-43e77384-697c-4356-9c4e-b56fbe8ef63c.png">--><br>
 To interface with the room like the old boards did, then I modified USB cables and was able to get them 5Vin as to not burn my boards.<br>
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/26822309/137974840-fea8edff-da03-4b39-ad23-3ca11afcb364.png"><br>
+<img width="800" alt="assembly" src="https://user-images.githubusercontent.com/26822309/137982630-042878fc-2eb9-48a7-97a8-76712cf9e39f.png"><br>
 
 <h2>How to use it?</h2>
 <h3>Connections</h3>
 The boards are plugged in to the wall via USB adapter to any outlet. Therefore, you can hot switch the system around. <br>
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/26822309/137974840-fea8edff-da03-4b39-ad23-3ca11afcb364.png"><br>
+<!--![IMG_3695 Medium](https://user-images.githubusercontent.com/26822309/137982630-042878fc-2eb9-48a7-97a8-76712cf9e39f.png)-->
+
+<img width="800" alt="assembly" src="https://user-images.githubusercontent.com/26822309/137982630-042878fc-2eb9-48a7-97a8-76712cf9e39f.png"><br>
 "Output" as seen on the board sends the signal from the board to a 2 pin terminal hardwired into the room. The "Switch" I/O on the board is where the USB power comes from. 
 <h3>Usage</h3>
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/26822309/137976932-13fc2147-3711-4d12-96aa-3972baf6c1ab.png"><br>
+<img width="650" alt="doctor" src="https://user-images.githubusercontent.com/26822309/137976932-13fc2147-3711-4d12-96aa-3972baf6c1ab.png"><br>
 <i>Pictured: Dr. Robinette using vacuum tube after being activated.</i><br>
 To use the airlocking vacuum system, one must simply turn it on and wait for about 10 seconds for the vacuum to charge to full sucking capacity. Then simply direct the tube to the patients breathing aperatures as shown below.<br>
-<img width="522" alt="image" src="https://user-images.githubusercontent.com/26822309/137977345-3ee10342-8b66-4bdd-bb6f-4f1c56ab3d04.png">
+<img width="522" alt="patient" src="https://user-images.githubusercontent.com/26822309/137977345-3ee10342-8b66-4bdd-bb6f-4f1c56ab3d04.png">
 
 <h2>Where is this?</h2>
 My work as seen here is implemented at Gulf Coast Dental, in Bluewater Bay, FL. Please visit the website that I also designed! https://gulfcoastdental.com 
