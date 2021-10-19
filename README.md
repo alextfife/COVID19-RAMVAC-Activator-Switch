@@ -68,3 +68,4 @@ My work as seen here is implemented at Gulf Coast Dental, in Bluewater Bay, FL. 
 
 <h2>Do you want this?</h2> 
 Please contact me, and I will promplty get in touch with you! 
+I do not personally know where the legality of this project stands, I will not publically post designs and part numbers as of yet.
