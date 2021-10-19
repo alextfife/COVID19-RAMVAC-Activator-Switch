@@ -3,7 +3,8 @@ Dental Office Air Filter Printed Circuit Board (PCB) Activation Switch. Inspired
 This is a modification of a system Designed by RAMVAC Dental Vacuum System. 
 
 <h2>Where did this come from?</h2>
-A small minority of dental offices peppered around the United States in the early 2000's for independent dental practices have a similar system installed within their buildings that allow for air filtration per room, and in most cases, per 'area'. That is, it would be an inlet with 3 walls but no door, thus no closed in air source. Due to bad breath, debris from dental procedures, and sick patients, these filters were installed. 
+A small minority of dental offices peppered around the United States in the early 2000's installed similar systems within their buildings that allow for air filtration per room, and in most cases, per 'area'. That is, it would be an inlet with 3 walls but no door, thus no closed in air source. Due to bad breath, debris from dental procedures, and sick patients, these filters were installed. 
+Although its been roughly 20 years, this practice is not standard, or very popular. However that popularity is rising.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/26822309/137974954-cbb8b84b-8970-4b10-9d28-e3c19cccae9b.png">
 This filtration system is based almost completely on the saw dust collection filters that are installed at sawmills. However at a sawmill the power cost is astronomical due to all the vacuums being on for older systems. Newer systems use switches to activate which vacuum tubes receive suction, and to power on the vacuum.
