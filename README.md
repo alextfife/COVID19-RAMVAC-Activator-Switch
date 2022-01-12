@@ -40,7 +40,10 @@ The original design. None of this was of my doing.
 With this, first thing I wanted to do was get rid of the batteries and do basic circuit analysis. 
 
 <!--After downloading open source models of the parts I needed, I had created this. <br>
+
+
 <img width="402" alt="image" src="https://user-images.githubusercontent.com/26822309/137974134-3fbc9a2d-eff3-42a8-9520-d32c58ee5504.png"><br>-->
+![image](https://user-images.githubusercontent.com/26822309/149172539-4a13e8d5-9f88-4bf8-a3c0-66058b45b912.png)<br>
 After checking PCB standards and compliance with the manufacturers, this was my first batch. I planned to save some money and solder them myself. <br>
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/26822309/137974287-b5538c80-dc87-46b2-a955-61d9378a7b3e.png">
 <br>
@@ -70,4 +73,7 @@ My work as seen here is implemented at Gulf Coast Dental, in Bluewater Bay, FL. 
 
 <h2>Do you want this?</h2> 
 Please contact me, and I will promplty get in touch with you! 
-I do not personally know where the legality of this project stands, I will not publically post designs and part numbers as of yet.
+
+<s> I do not personally know where the legality of this project stands, I will not publically post designs and part numbers as of yet. </s>
+
+I offered my design to the parent company with the negotiation I could get a position as product development engineer. I was rejected the position. Therefore, I have attached all designs and files to this repo for the unicorns out there whom this project might benefit! 
