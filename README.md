@@ -74,6 +74,6 @@ My work as seen here is implemented at Gulf Coast Dental, in Bluewater Bay, FL. 
 <h2>Do you want this?</h2> 
 Please contact me, and I will promplty get in touch with you! 
 
-<s> I do not personally know where the legality of this project stands, I will not publically post designs and part numbers as of yet. </s>
+I offered my design to the parent companyand I also applied for a position as product development engineer. I was rejected for the position. 
 
-I offered my design to the parent company with the negotiation I could get a position as product development engineer. I was rejected the position. Therefore, I have attached all designs and files to this repo for the unicorns out there whom this project might benefit! 
+Under fair use, I have attached all designs and files to this repo for the unicorns out there whom this project might benefit! 
