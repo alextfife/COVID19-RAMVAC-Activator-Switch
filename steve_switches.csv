@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"SOIC127P600X175-14N";1;"MC14106BDG";;;
+2;"R2";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"10k";;;
+3;"R1";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"1M";;;
+4;"C2";"C_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"120nF";;;
+5;"C1";"C_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"1nF";;;
