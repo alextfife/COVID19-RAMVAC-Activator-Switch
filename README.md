@@ -40,10 +40,9 @@ The original design. None of this was of my doing.
 With this, first thing I wanted to do was get rid of the batteries and do basic circuit analysis. 
 
 <!--After downloading open source models of the parts I needed, I had created this. <br>
-
-
 <img width="402" alt="image" src="https://user-images.githubusercontent.com/26822309/137974134-3fbc9a2d-eff3-42a8-9520-d32c58ee5504.png"><br>-->
-![image](https://user-images.githubusercontent.com/26822309/149172539-4a13e8d5-9f88-4bf8-a3c0-66058b45b912.png)<br>
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/26822309/158709149-f0440fe2-b1d0-47e6-9e66-cc97efe48673.png"><br>
 After checking PCB standards and compliance with the manufacturers, this was my first batch. I planned to save some money and solder them myself. <br>
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/26822309/137974287-b5538c80-dc87-46b2-a955-61d9378a7b3e.png">
 <br>
