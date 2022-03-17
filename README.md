@@ -1,4 +1,8 @@
 # COVID-AirLock
+
+#Error: There has been an issue with the tracing on these, will update once testing has been done. Transfering from kiCAD to EasyEDA removed some traces. 
+
+
 Dental Office Air Filter Printed Circuit Board (PCB) Activation Switch. Inspired by the events of COVID-19.
 This is a modification of a system Designed by RAMVAC Dental Vacuum System. 
 
