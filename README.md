@@ -42,7 +42,7 @@ With this, first thing I wanted to do was get rid of the batteries and do basic 
 <!--After downloading open source models of the parts I needed, I had created this. <br>
 <img width="402" alt="image" src="https://user-images.githubusercontent.com/26822309/137974134-3fbc9a2d-eff3-42a8-9520-d32c58ee5504.png"><br>-->
 
-<img width="466" alt="image" src="https://user-images.githubusercontent.com/26822309/158709149-f0440fe2-b1d0-47e6-9e66-cc97efe48673.png"><br>
+<img width="497" alt="image" src="https://user-images.githubusercontent.com/26822309/158711805-f3164172-83f7-4a4f-8c27-bf5820cfd3e8.png"><br>
 After checking PCB standards and compliance with the manufacturers, this was my first batch. I planned to save some money and solder them myself. <br>
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/26822309/137974287-b5538c80-dc87-46b2-a955-61d9378a7b3e.png">
 <br>
